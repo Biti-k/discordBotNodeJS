@@ -1,23 +1,30 @@
-# discordBot-NodeJS-
+![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/d4260572-9318-447f-9fa3-0036d23e8c74)discordBot-NodeJS-
 Discord bot done with discord.js, nodeJS. I used mongoDB for database.
 Things the bot can do:
 simple economy system:
-![image](https://github.com/Biti-k/discordBot-NodeJS-/assets/126298024/414a2cc4-9a1c-4b80-b97e-bda77b5e55df)
+![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/55d05a00-73a4-4e93-b6c8-a49b1197d5c5)
 
-![image](https://github.com/Biti-k/discordBot-NodeJS-/assets/126298024/e894653e-52e4-4a19-a0a3-0136a6d5eb3c)
+![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/c3276bca-ecdf-4164-94e9-dd3483e8ad0b)
 
-![image](https://github.com/Biti-k/discordBot-NodeJS-/assets/126298024/a1d43aac-5f1f-4472-b49c-90eca64085e5)
+![Uploading image.png…]()
+
+
+
+
 
 react to text and send images:
-![image](https://github.com/Biti-k/discordBot-NodeJS-/assets/126298024/0cf5590d-6291-4603-934c-d20d8beb7b82)
+![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/643b8739-f8b6-4a05-b5e1-37136dcba2c1)
+
 
 
 
 
 Use of API:
 check the weather
-![image](https://github.com/Biti-k/discordBot-NodeJS-/assets/126298024/e63a59f8-fcdd-4f17-a4f4-d88cf4a69fe4)
+![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/c5e999e5-db3a-48e0-915f-7d1cfccd6b00)
+
 
 translate:
-![image](https://github.com/Biti-k/discordBot-NodeJS-/assets/126298024/b2766aa4-f71c-4fde-8fd2-14bf0ce865b6)
+![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/a857f58c-d2aa-4f07-8fad-515ba2e629cc)
+
 
