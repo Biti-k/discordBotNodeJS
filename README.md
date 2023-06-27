@@ -1,4 +1,4 @@
-![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/d4260572-9318-447f-9fa3-0036d23e8c74)discordBot-NodeJS-
+discordBot-NodeJS-
 Discord bot done with discord.js, nodeJS. I used mongoDB for database.
 Things the bot can do:
 simple economy system:
