@@ -9,6 +9,7 @@ simple economy system:
 ![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/c3276bca-ecdf-4164-94e9-dd3483e8ad0b)
 <br/>
 react to text and send images:
+<br/>
 ![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/643b8739-f8b6-4a05-b5e1-37136dcba2c1)
 <br/>
 Use of API:
