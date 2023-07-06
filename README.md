@@ -7,6 +7,7 @@ simple economy system:
 
 react to text and send images:
 ![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/643b8739-f8b6-4a05-b5e1-37136dcba2c1)
+<br/>
 Use of API:
 check the weather
 ![image](https://github.com/Biti-k/discordBotNodeJS/assets/126298024/c5e999e5-db3a-48e0-915f-7d1cfccd6b00)
