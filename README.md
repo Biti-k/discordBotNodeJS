@@ -1,5 +1,5 @@
 discordBot-NodeJS-
-Discord bot done with discord.js, nodeJS. I used mongoDB for database.
+Discord bot done for fun with discord.js, nodeJS. I used mongoDB for database.
 Things the bot can do:
 <br/>
 simple economy system:
